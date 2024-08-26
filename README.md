@@ -1,29 +1,29 @@
 <a name="readme-top"></a>
 
-    ## Hub entretenimiento
+## Hub entretenimiento
 
 <div align="center">
 
-    Este proyecto fue generado con Angular CLI versión 18.1.0
+Este proyecto fue generado con Angular CLI versión 18.1.0
 
 ![Badge in progress](https://img.shields.io/badge/STATUS-DONE-green)
 
 </div>
 
 <details>
-    <summary>Tabla de contenido</summary>
+<summary>Tabla de contenido</summary>
 
-    - [Descripcion del proyecto](#descripcion-del-proyecto)
-    - [Objetivos](#objetivos)
-    - [Programas utilizados](#programas-utilizados)
-    - [Instrucciones para descargar y ejecutar](#instrucciones-para-descargar-y-ejecutar)
-    - [Descripcion del como se hizo](#descripcion-del-como-se-hizo)
-    - [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
-    - [Posibles mejoras futuras](#posibles-mejoras-futuras)
-    - [Sprint review](#sprint-review)
-    - [Imagenes de testing](#imagenes-de-testing)
-    - [Documentacion de la API](#documentacion-de-la-api)
-    - [Contribuyentes al proyecto](#contribuyentes-al-proyecto)
+- [Descripcion del proyecto](#descripcion-del-proyecto)
+- [Objetivos](#objetivos)
+- [Programas utilizados](#programas-utilizados)
+- [Instrucciones para descargar y ejecutar](#instrucciones-para-descargar-y-ejecutar)
+- [Descripcion del como se hizo](#descripcion-del-como-se-hizo)
+- [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
+- [Posibles mejoras futuras](#posibles-mejoras-futuras)
+- [Sprint review](#sprint-review)
+- [Imagenes de testing](#imagenes-de-testing)
+- [Documentacion de la API](#documentacion-de-la-api)
+- [Contribuyentes al proyecto](#contribuyentes-al-proyecto)
 
 </details>
 
