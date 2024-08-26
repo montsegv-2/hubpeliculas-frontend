@@ -1,8 +1,10 @@
 <a name="readme-top"></a>
 
-## Hub entretenimiento
+
 
 <div align="center">
+
+## Hub entretenimiento
 
 Este proyecto fue generado con Angular CLI versión 18.1.0
 
@@ -139,9 +141,10 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 
 | ¿Qué hice bien? | ¿Qué no hice bien | ¿Qué puedo hacer diferente? |
 | --------------- | ----------------- | --------------------------- |
-| Adopción de tecnologías modernas: La elección de tecnologías como Angular, .NET Core, Kubernetes y Docker demuestra un compromiso con el uso de herramientas de última generación. Esto no solo garantiza un producto más actualizado, sino que también abre puertas a futuras innovaciones y mejoras.
-Aprendizaje mutuo: El trabajo en equipo ha permitido a los miembros compartir conocimientos y aprender de las experiencias de los demás. Esto ha enriquecido el proyecto y ha fortalecido las habilidades individuales.
-              |Exploración de nuevas herramientas: El intento de implementar Kubernetes, aunque no se logró en este sprint, refleja un espíritu de exploración y búsqueda de soluciones más escalables y robustas. Este tipo de iniciativa es fundamental para mantenerse a la vanguardia del desarrollo web.                   |                             |
+|Trabajar en equipo ha sido una experiencia enriquecedora. Al compartir conocimientos y aprender de mis compañeros, he podido ampliar mis habilidades y mejorar mi comprensión de los diferentes aspectos del proyecto. Este intercambio de ideas ha fortalecido tanto mi crecimiento profesional como el del equipo en su conjunto.
+Protefer la informacion de los usuario mediante la implemento de un sistema de hashing para las contraseñas, lo que garantiza que incluso si alguien lograra acceder a nuestra base de datos, los datos de los usuarios permanecerían seguros.
+Me enfrenté a varios desafíos durante el desarrollo, pero aprendí a encontrar soluciones creativas y a mantener la calma bajo presión.|  Aunque adquirí conocimientos básicos sobre Kubernetes, creo que podría profundizar más en esta tecnología para aprovechar al máximo sus ventajas.
+|Si bien estoy satisfecho con el rendimiento actual de la aplicación, siempre hay margen para mejorar. Me gustaría explorar técnicas de optimización para reducir los tiempos de carga y mejorar la experiencia del usuario |
 
 # Documentacion de la API
 
