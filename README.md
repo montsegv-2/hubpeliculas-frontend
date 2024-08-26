@@ -24,7 +24,7 @@ Este proyecto fue generado con Angular CLI versión 18.1.0
 - [Posibles mejoras futuras](#posibles-mejoras-futuras)
 - [Sprint review](#sprint-review)
 - [Imagenes de testing](#imagenes-de-testing)
-- [Documentacion de la API](#documentacion-de-la-api)
+- [Funcionamiento de Swagger](#funcionamiento-de-swagger)
 - [Contribuyentes al proyecto](#contribuyentes-al-proyecto)
 
 </details>
@@ -117,7 +117,7 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 
 # Funcionamiento de Swagger
 
- <img src="public/SWAGGER.png" alt="Creacion bd" whith="5vw">
+<img src="public/SWAGGER.png" alt="Creacion bd" whith="5vw">
 <img src="public/Funcionamientoswagger.png" alt="Creacion bd" whith="5vw">
 
 # Funcionamiento del Hub
@@ -146,7 +146,7 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 | ¿Qué No Salió Bien?        |Aunque adquirí conocimientos básicos sobre Kubernetes, creo que podría profundizar más en esta tecnología para aprovechar al máximo sus ventajas.  |
 
 
-# Documentacion de la API
+# Imagenes de testing
 
 <img src="public/test.png" alt="Karma" whith="5vw">
 
