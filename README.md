@@ -12,7 +12,7 @@ Este proyecto fue generado con Angular CLI versión 18.1.0
 
 </div>
 
-<details>
+
 <summary>Tabla de contenido</summary>
 
 - [Descripcion del proyecto](#descripcion-del-proyecto)
@@ -27,7 +27,6 @@ Este proyecto fue generado con Angular CLI versión 18.1.0
 - [Funcionamiento de Swagger](#funcionamiento-de-swagger)
 - [Contribuyentes al proyecto](#contribuyentes-al-proyecto)
 
-</details>
 
 # Descripcion del proyecto
 
