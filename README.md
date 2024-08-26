@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
-<div align="center">
     ## Hub entretenimiento
+
+<div align="center">
 
     Este proyecto fue generado con Angular CLI versión 18.1.0
 
@@ -138,7 +139,9 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 
 | ¿Qué hice bien? | ¿Qué no hice bien | ¿Qué puedo hacer diferente? |
 | --------------- | ----------------- | --------------------------- |
-|               |                   |                             |
+| Adopción de tecnologías modernas: La elección de tecnologías como Angular, .NET Core, Kubernetes y Docker demuestra un compromiso con el uso de herramientas de última generación. Esto no solo garantiza un producto más actualizado, sino que también abre puertas a futuras innovaciones y mejoras.
+Aprendizaje mutuo: El trabajo en equipo ha permitido a los miembros compartir conocimientos y aprender de las experiencias de los demás. Esto ha enriquecido el proyecto y ha fortalecido las habilidades individuales.
+              |Exploración de nuevas herramientas: El intento de implementar Kubernetes, aunque no se logró en este sprint, refleja un espíritu de exploración y búsqueda de soluciones más escalables y robustas. Este tipo de iniciativa es fundamental para mantenerse a la vanguardia del desarrollo web.                   |                             |
 
 # Documentacion de la API
 
