@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    # Hub MegaPeliculas
+    ## Hub entretenimiento
 
     Este proyecto fue generado con Angular CLI versión 18.1.0
 
@@ -138,7 +138,7 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 
 | ¿Qué hice bien? | ¿Qué no hice bien | ¿Qué puedo hacer diferente? |
 | --------------- | ----------------- | --------------------------- |
-|                 |                   |                             |
+|               |                   |                             |
 
 # Documentacion de la API
 
