@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-
-
 <div align="center">
 
 ## Hub entretenimiento
@@ -11,7 +9,6 @@ Este proyecto fue generado con Angular CLI versión 18.1.0
 ![Badge in progress](https://img.shields.io/badge/STATUS-DONE-green)
 
 </div>
-
 
 <summary>Tabla de contenido</summary>
 
